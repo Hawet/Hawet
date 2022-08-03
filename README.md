@@ -4,7 +4,7 @@
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Hawet&hide=prs,issues,contribs&theme=merko&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hawet&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=merko&hide=java,html"/>
+ <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hawet&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=merko&hide=java"/>
 </div>
 <!--
 Here are some ideas to get you started:
