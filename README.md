@@ -17,8 +17,6 @@
 
 I'm a passionate **Data Engineer** with a strong foundation in building robust, scalable data pipelines and infrastructure. My work focuses on transforming raw data into actionable insights and creating systems that enable data-driven decision making. I'm deeply interested in **Machine Learning** and **Data Science**, constantly exploring how these fields intersect with data engineering to create intelligent, automated solutions.
 
-I'm also an active **open source contributor**, believing in the power of collaborative development and knowledge sharing within the tech community.
-
 ---
 
 ## Professional Experience
