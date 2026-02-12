@@ -29,6 +29,8 @@ With hands-on experience in data engineering, I specialize in:
 
 - **Data Pipeline Development**: Designing and implementing ETL/ELT processes for large-scale data processing
 - **Data Architecture**: Building scalable data infrastructure and warehouse solutions
+- **Infrastructure Changes & Modernization**: Planning and executing infrastructure migrations, modernizing legacy systems, and transitioning to cloud-native architectures. Experience with containerization, orchestration, and implementing infrastructure-as-code practices
+- **Cost Optimization**: Optimizing data pipeline costs through efficient resource allocation, query optimization, right-sizing compute resources, implementing data partitioning strategies, and monitoring usage patterns to reduce cloud spend while maintaining performance
 - **Data Quality & Governance**: Ensuring data reliability, consistency, and compliance
 - **Cloud Data Platforms**: Working with modern cloud-based data solutions
 - **Real-time Data Processing**: Developing streaming data pipelines and event-driven architectures
@@ -65,8 +67,10 @@ My interest in ML and Data Science drives me to:
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ### Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -82,6 +86,7 @@ My interest in ML and Data Science drives me to:
 - **Workflow Orchestration**: Apache Airflow for pipeline scheduling and monitoring
 - **Streaming**: Apache Kafka for event streaming and real-time data processing
 - **Cloud Platforms**: AWS services and Snowflake for scalable data infrastructure
+- **Infrastructure as Code**: Terraform for provisioning and managing cloud infrastructure
 - **Containerization**: Docker and Kubernetes for containerized deployments
 - **ML Frameworks**: TensorFlow, PyTorch for deep learning and model development
 
@@ -89,15 +94,7 @@ My interest in ML and Data Science drives me to:
 
 ## Kaggle Competitions
 
-In my spare time, I actively participate in **Kaggle competitions** to sharpen my data science and machine learning skills. These competitions provide an excellent opportunity to:
-
-- Work on real-world datasets and challenging problems
-- Experiment with advanced ML techniques and ensemble methods
-- Learn from the global data science community and top performers
-- Apply data engineering principles to feature engineering and data preparation
-- Stay current with the latest trends in predictive modeling and analytics
-
-Competing on Kaggle allows me to continuously improve my problem-solving abilities and apply cutting-edge techniques that I can bring back to my professional work in data engineering.
+Every now and then, I like to dip into **Kaggle competitions** when something interesting catches my eye. It's a nice way to explore different datasets and try out new ML approaches in a more relaxed setting. I find it helpful for staying curious about data science techniques and seeing how others approach problems, even if I'm not competing regularly.
 
 ## What I'm Working On
 
