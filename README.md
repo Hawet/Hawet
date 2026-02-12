@@ -7,8 +7,6 @@
 *Building scalable data infrastructure and exploring the intersection of data engineering, machine learning, and data science*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslan-kupriianov-aa26891b1/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hawet)
-
 </div>
 
 ---
@@ -111,6 +109,3 @@ I'm always open to:
 - **Collaboration**: Open source contributions, data engineering projects, and ML research
 - **Networking**: Connecting with fellow data professionals, researchers, and innovators
 
-**Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/ruslan-kupriianov-aa26891b1/)
-- [GitHub](https://github.com/Hawet)
